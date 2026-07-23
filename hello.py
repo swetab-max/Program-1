@@ -1,1 +1,1 @@
-print("Hello, World!") #sweta
+print("Hello, World!")
